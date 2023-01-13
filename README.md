@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Enes Ozturk</h1>
-<h3 align="center">Data Scientist | AWS Cloud Researcher</h3>
+<h3 align="center">Data Scientist | NLP Researcher</h3>
 
 - 📫 How to reach me **enesozturk7038@gmail.com**
 

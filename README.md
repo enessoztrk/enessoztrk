@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Enes Ozturk</h1>
-<h3 align="center">AI Project Assistant at KoçSistem</a> | Germany EuroTech Mentor at Miuul | Data Engineer | AWS Cloud Researcher </h3>
+<h3 align="center">⚡Germany EuroTech Mentor at Miuul | Co-Founder at Data & Cloud Platform | Data Engineer | AWS Cloud Researcher </h3>
 
 - 📫 How to reach me **enesozturk7038@gmail.com**
 

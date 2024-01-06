@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Enes Ozturk</h1>
-<h3 align="center">AI Software Engineer @KoçSistem | Data Analyst Consultant @Miuul | Data Engineer</h3>
+<h3 align="center">AI Software Engineer @KoçSistem | Data Analyst Mentor @Miuul | Data Engineer</h3>
 
 - 📫 How to reach me **enesozturk7038@gmail.com**
 
